@@ -1,2 +1,2 @@
-# SeniorDesign
+# Veer
 CS Senior Design Project
