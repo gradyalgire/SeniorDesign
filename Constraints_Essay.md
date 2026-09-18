@@ -1,5 +1,7 @@
 # Veer Project Constraints 
 
+Team members: Grady Algire, Brady Cooper, Briar Elliot, Dominic Rowland, Aiden Ward
+
 # Economic 
 
 Veer is funded out of the team's own pockets. This pushes us toward free-tier hosted inference plus the Google Maps Platform for free credit for routing and place search. It also means Veer runs on the driver's existing phone rather than any purpose-built in-dash hardware. 
